@@ -53,13 +53,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BallControl.cs" />
-     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLine.cs" />
      <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLineDemo.cs" />
-     <Compile Include="Assets\PlayerControl.cs" />
-     <Compile Include="Assets\SideWall.cs" />
-     <Compile Include="Assets\Trajectory.cs" />
+     <Compile Include="Assets\Scripts\BallControl.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\SideWall.cs" />
+     <Compile Include="Assets\Scripts\Trajectory.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/DATA DEYGO ZULVITER/Unity Project/Pong/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
